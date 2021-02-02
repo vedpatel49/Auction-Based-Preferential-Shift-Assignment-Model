@@ -9,3 +9,6 @@ The proposed methodology works as an auction: The shifts are to be auctioned and
 The model is formulated in AMPL (https://ampl.com/products/ampl/) and also in Python using DOcplex (https://ibmdecisionoptimization.github.io/docplex-doc/#mathematical-programming-modeling-for-python-using-docplex-mp-docplex-mp). The model can be solved using CPLEX (http://ibmdecisionoptimization.github.io/docplex-doc/mp.html) or any similar linear programming solver. 
 
 Our work has been accepted for an oral presentation at the 2021 IISE Conference & Expo. The accepted abstract can be found here ([IISE_Abstract.pdf](https://github.com/vedpatel49/Auction-Based-Preferential-Shift-Assignment-Model/files/5913754/IISE_Abstract_Final.pdf)). 
+
+A AMPL .mod file and an end-to end (data pre-processing, model solving, final results) Python script can be found in this repository.
+
