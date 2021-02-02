@@ -10,6 +10,6 @@ The model is formulated in AMPL (https://ampl.com/products/ampl/) and also in Py
 
 Our work has been accepted for an oral presentation at the 2021 IISE Conference & Expo. The accepted abstract can be found here ([IISE_Abstract.pdf](https://github.com/vedpatel49/Auction-Based-Preferential-Shift-Assignment-Model/files/5913754/IISE_Abstract_Final.pdf)). 
 
-A AMPL .mod file and an end-to end (data pre-processing, model solving, final results) Python script can be found in this repository. It is very important that data is collected in a specific format. Hence, a sample data collection (.xls) file is also provided in the repository. The provided file was used to collect shift preferences from work-study students working at the library. The form can be adapted depending on area of application
+A AMPL .mod file and an end-to end (data pre-processing, model solving, final results) Python script can be found in this repository. It is very important that data is collected in a specific format. Hence, a sample data collection (.xls) file is also provided in the repository. The provided file was used to collect shift preferences from work-study students working at the library. The data collection form can be adapted depending on area of application
 
 
