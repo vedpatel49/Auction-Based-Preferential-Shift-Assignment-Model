@@ -1,8 +1,6 @@
 set STUDENT;
 set DAY;
-#set DAY1;
 set SHIFT;
-# set SHIFT1;
 
 param required {DAY,SHIFT};
 param maxshift {STUDENT};
